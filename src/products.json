@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "LF24T350FHLCZB",
+    "name": "Monitor Gamer Samsung LF24T350FHLCZB 24",
+    "price": 169999,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_689243-MLA52747966964_122022-O.webp",
+    "description": "El monitor Samsung LF24T350FHLCZB de 24 pulgadas\ncuenta con resolución Full HD (1920 x 1080 píxeles) de\nformato widescreen 16:9 y un contraste 1000:1.\nMediante su entrada PC In podrás conectar tu PC o\nNotebook. Además, también ofrece la posibilidad de\nconectarse a través de HDMI. El LED no tiene sistema de\naudio incorporado.\nBrillo 250 cd/m².\nRelación de aspecto 16:9.\nRelación de contraste (estándar) 1000:1.\nRelación de aspecto 16:9.\nResolución óptima 1920 x 1080.",
+    "stock": 5
+  },
+  {
+    "sku": "A1702655OPER87",
+    "name": "Lavarropas Frontal Drean 8Kg",
+    "price": 549999,
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjOEqjJfvUV8_-gBsoUjsEFFyBGpKM6UHmrv8H5jCrV5lJuC2y",
+    "description": "El lavarropas Drean Next 8.14 P Eco está especialmente\ndiseñado para mejorar toda la experiencia de lavado de\nropa. Con una puerta de acceso frontal de tamaño extra\ngrande, colocar las prendas es muy fácil. Gracias a la\nubicación de su perilla de control en el frente, cambiar\nprogramas y velocidades es súper sencillo. Por otro lado,\nsu tambor elevado está construido ergonómicamente\npara conseguir una posición más cómoda que la que\nbrindan otros lavarropas.\nDimensiones: 59,5 cm x 85 cm x 55 cm.\nPeso: 72kg.",
+    "stock": 3
+  },
+  {
+    "sku": "ALSPE34WFSKU8236",
+    "name": "Bicicleta Mountain Bike Rodado 29” Aluminio SLP",
+    "price": 215999,
+    "image": "https://www.megatone.net/Images/Articulos/zoom2x/104/BIC1020SLP.jpg",
+    "description": "La bicicleta MTB Aluminio 10 PRO de rodado 29 en color\nnegro con detalles en gris y blanco, este tipo de bicicleta de\nmontaña está diseñada para acompañarte en todas tus\naventuras, adaptable a todos los caminos.",
+    "stock": 5
+  }
+]
